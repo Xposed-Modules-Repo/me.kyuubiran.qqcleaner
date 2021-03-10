@@ -5,7 +5,9 @@
 
 注:本模块完全免费且开源，一切开发旨在学习，请勿用于非法用途。
 
-QQ群:827356240  项目地址:[点我前往](https://github.com/KyuubiRan/QQCleaner)
+QQ群:827356240  Telegram:[点我前往](https://t.me/QQCleanerCh)
+
+项目地址:[点我前往](https://github.com/KyuubiRan/QQCleaner)
 
 
 ## 使用方法
